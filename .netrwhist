@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/bogdanhabic/Downloads/openssh-6.6.1/share/examples/rc.d'
+let g:netrw_dirhist_2='/Users/bogdanhabic/Desktop/elixir'
+let g:netrw_dirhist_3='/Users/bogdanhabic/Downloads/node-auth-bridge'
