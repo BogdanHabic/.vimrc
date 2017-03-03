@@ -23,3 +23,6 @@ autocmd! BufWritePost * Neomake
 " deoplete tab-complete "
 inoremap <expr><tab> pumvisible() ? "\<c-n>" : "\<tab>"
 inoremap <expr><S-tab> pumvisible() ? "\<c-p>" : "\<S-tab>"
+
+" Update time for plugins
+set updatetime=250
